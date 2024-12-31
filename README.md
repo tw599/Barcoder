@@ -5,7 +5,7 @@
 
 # Pre-Requisites
 
-Install python modules <random> and <argparse>
+Install python modules *random* and *argparse*
 ```
 pip install argparse
 pip install random
